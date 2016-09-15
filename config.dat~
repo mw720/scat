@@ -13,6 +13,7 @@ off_x		0.						### offset of beam in x axis (mm)
 off_y		0.						### offset of beam in y axis (mm)
 
 targetP		5.00					### central target pressure (torr), target temperature is 21.0 C
+targetTemp 21.0
 
 Thres		0.01					### detector threshold (MeV)
 DRes		0.03					### detector resoultion (MeV) (0 for ideal detector)
